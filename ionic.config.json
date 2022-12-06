@@ -1,0 +1,7 @@
+{
+  "name": "LatihanA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
